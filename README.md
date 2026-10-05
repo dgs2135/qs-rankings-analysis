@@ -197,7 +197,3 @@ BSc (Hons) Information Technology and Business Information Systems, Middlesex Un
 
 * Module leader: Stephen Agada, Middlesex University London
 * QS World University Rankings data via Kaggle
-
-```
-
-```
