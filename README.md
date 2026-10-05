@@ -24,7 +24,6 @@ University rankings influence decisions made by students, institutions, and gove
 
 ## Repository Structure
 
-
 ```
 
 .
@@ -97,7 +96,9 @@ The number of ranked universities grew from **933 (2017)** to **1,504 (2027)**, 
 
 ## Visualisations (Tableau)
 
-Open `QS_Rankings__2017-2027__Insights.twbx` in Tableau Desktop (or Tableau Public Reader).
+🔗 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/QSRankings2017-2027Insights/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+Open the live dashboard on Tableau Public or download `QS_Rankings__2017-2027__Insights.twbx` to open in Tableau Desktop / Tableau Reader.
 
 | # | Visual | Insight |
 |---|--------|---------|
