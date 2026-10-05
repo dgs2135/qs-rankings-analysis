@@ -157,7 +157,9 @@ Linear trend lines and forecasts (to 2030) were produced in Tableau for eleven E
 
 ## Getting Started
 
-**To explore the results:** open `QS_Rankings__2017-2027__Insights.twbx` in Tableau, or load `data/QS_Master_2017_2027.csv` directly:
+**To explore the results:** 
+* 🌐 **Online:** Explore the interactive dashboard on **[Tableau Public](https://public.tableau.com/views/QSRankings2017-2027Insights/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**.
+* 💻 **Locally:** Open `QS_Rankings__2017-2027__Insights.twbx` in Tableau, or load `data/QS_Master_2017_2027.csv` directly in Python:
 
 ```python
 import pandas as pd
